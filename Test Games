@@ -3,7 +3,7 @@ from random import randrange
 from tkinter import Canvas, Tk, messagebox, font
 
 canvas_width = 8550
-canvas_height = 4060
+canvas_height = 4860
 
 root = Tk()
 root.title("Egg Catcher")
